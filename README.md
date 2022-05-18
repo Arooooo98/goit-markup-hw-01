@@ -1,1 +1,1 @@
-# www
+# Pierwsza praca domowa GoIT
